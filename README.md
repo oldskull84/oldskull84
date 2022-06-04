@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oldskull84, Senior/Lead Software Developer (.NET), From Hungary
 - 👀 I’m interested in Software Architecture (in .NET), Game Development (in Unity) and a whole lot more.
-- 🌱 I’m currently learning MicroServices (in ASP.NET Core) and Web frontend basics
+- 🌱 I’m currently learning MicroServices (in ASP.NET Core), Web frontend basics an NETMAUI
 - 💞️ I’m looking to collaborate on // TODO
 - 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/vitaitamas/
